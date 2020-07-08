@@ -1,0 +1,10 @@
+Línea 1374: la clase EditLib.fpDoubleSingle del control txt_InteresTC no era una clase de control cargada.
+Línea 1470: la clase EditLib.fpDoubleSingle del control txt_InteresTNC no era una clase de control cargada.
+Línea 1566: la clase EditLib.fpDoubleSingle del control txt_SegDes no era una clase de control cargada.
+Línea 1662: la clase EditLib.fpDoubleSingle del control txt_SegInm no era una clase de control cargada.
+Línea 1758: la clase EditLib.fpDoubleSingle del control txt_MontoITF no era una clase de control cargada.
+Línea 2258: la clase EditLib.fpDateTime del control ipp_FecPre no era una clase de control cargada.
+Línea 2365: la clase EditLib.fpDoubleSingle del control txt_Mto_Deposito no era una clase de control cargada.
+Línea 2461: la clase EditLib.fpDoubleSingle del control txt_ApliTC no era una clase de control cargada.
+Línea 2557: la clase EditLib.fpDoubleSingle del control txt_AplTNC no era una clase de control cargada.
+Línea 3202: la clase Crystal.CrystalReport del control crp_Imprim no era una clase de control cargada.

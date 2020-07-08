@@ -1,0 +1,8 @@
+Línea 75: la clase EditLib.fpDoubleSingle del control ipp_MtoAho no era una clase de control cargada.
+Línea 171: la clase EditLib.fpLongInteger del control ipp_MesAho no era una clase de control cargada.
+Línea 586: la clase EditLib.fpDoubleSingle del control ipp_ComVta no era una clase de control cargada.
+Línea 682: la clase EditLib.fpDoubleSingle del control ipp_ApoPro no era una clase de control cargada.
+Línea 778: la clase EditLib.fpDoubleSingle del control ipp_MtoAFP no era una clase de control cargada.
+Línea 1249: la clase EditLib.fpDoubleSingle del control ipp_ValEst no era una clase de control cargada.
+Línea 1395: la clase EditLib.fpLongInteger del control ipp_PlaAno no era una clase de control cargada.
+Línea 1486: la clase EditLib.fpLongInteger del control ipp_PerGra no era una clase de control cargada.

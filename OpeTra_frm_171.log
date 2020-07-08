@@ -1,0 +1,5 @@
+Línea 102: la clase EditLib.fpDateTime del control ipp_IniAlq_2 no era una clase de control cargada.
+Línea 209: la clase EditLib.fpDoubleSingle del control ipp_AlqMen_2 no era una clase de control cargada.
+Línea 415: la clase EditLib.fpDateTime del control ipp_IniAlq_1 no era una clase de control cargada.
+Línea 522: la clase EditLib.fpDoubleSingle del control ipp_AlqMen_1 no era una clase de control cargada.
+Línea 872: la clase EditLib.fpDoubleSingle del control ipp_IngNet no era una clase de control cargada.

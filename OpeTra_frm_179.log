@@ -1,0 +1,10 @@
+Línea 183: la clase EditLib.fpDoubleSingle del control ipp_Gas_ImpVal no era una clase de control cargada.
+Línea 407: la clase EditLib.fpDoubleSingle del control ipp_Fin_SalPag no era una clase de control cargada.
+Línea 503: la clase EditLib.fpDoubleSingle del control ipp_Fin_MonOto no era una clase de control cargada.
+Línea 599: la clase EditLib.fpLongInteger del control ipp_Fin_MesPag no era una clase de control cargada.
+Línea 690: la clase EditLib.fpDoubleSingle del control ipp_Fin_CuoMen no era una clase de control cargada.
+Línea 1694: la clase EditLib.fpDoubleSingle del control ipp_Tar_SalPag no era una clase de control cargada.
+Línea 1790: la clase EditLib.fpDoubleSingle del control ipp_Tar_LinCre no era una clase de control cargada.
+Línea 1886: la clase EditLib.fpDoubleSingle del control ipp_Tar_MonMin no era una clase de control cargada.
+Línea 2079: la clase EditLib.fpDoubleSingle del control ipp_Inm_ImpVal no era una clase de control cargada.
+Línea 2175: la clase EditLib.fpDateTime del control ipp_Inm_FecAdq no era una clase de control cargada.
